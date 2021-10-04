@@ -8,7 +8,8 @@ Demo: [https://avatar-upload-ui.vercel.app](https://avatar-upload-ui.vercel.app)
 Create an React App with a Signup page
 
 Provide username, email, password and an avatar image
-git- Allow picking a file using the input type "file"
+
+Allow picking a file using the input type "file"
 
 Limit the file choice to images only!
 
